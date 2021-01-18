@@ -1,3 +1,9 @@
+#Credentials
+config.py
+
+#Practice Code
+Extract.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
