@@ -4,6 +4,9 @@ config.py
 #Practice Code
 Extract.ipynb
 
+# Resources Datafiles (large files)
+movies_metadata.csv
+ratings.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
